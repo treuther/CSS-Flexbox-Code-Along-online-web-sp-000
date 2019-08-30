@@ -23,6 +23,7 @@ main {
 
 footer {
   background-color: #DAEEEF;
+  flex-shrink: 3;
   height: 80px;
   width: 100%;
 }
